@@ -5,5 +5,5 @@ notifications:
     recipients:
       - luisvaley@hotmail.com
       - lst24@hotmail.com
-    on_success: always # default: change
+    on_success: always # defaul: change
     on_failure: always # default: always
